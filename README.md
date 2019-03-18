@@ -1,2 +1,2 @@
 # NewAge-DJ
-A javascript
+A Patatap clone made using HTML, CSS, Javascript, Paper.js and Howler.js
